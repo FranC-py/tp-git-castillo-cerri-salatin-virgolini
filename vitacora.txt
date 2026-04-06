@@ -1,0 +1,3 @@
+Se piensa en realizar la pulsera para ayudar a la gente de tercera edad
+Se considera hacer una placa con soldadura SMD para mayor eficiencia en el espacio usado
+Se habla sobre la posibilidad de grabar y transmitir video junto con audio en el caso de pulsar el botón S.O.S
